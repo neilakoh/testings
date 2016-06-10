@@ -1,0 +1,28 @@
+<head>
+  <title>Astronomy Test</title>
+</head>
+
+<template name="main">
+  <body>
+
+    {{> yield}}
+
+  </body>
+</template>
+
+<template name="login">
+  <input type="text" name="username" id="username" placeholder="Enter Username"/><br/><br/>
+  <input type="password" name="password" id="password" placeholder="Enter Password"/><br/><br/>
+  <button type="button" id="login">Login</button><br/><br/>
+  <a href="/register" style="text-decoration: none;">Register</a>
+</template>
+
+<template name="register">
+  <h1>Register</h1>
+  <br/>
+  <input type="text" name="username" id="username" placeholder="Enter Username"/><br/><br/>
+  <input type="password" name="password" id="password" placeholder="Enter Password"/><br/><br/>
+  <input type="email" name="email" id="email" placeholder="Enter Email"/><br/><br/>
+  <button type="button" id="register">Register</button><br/><br/>
+  <a href="/" style="text-decoration: none;">Back to Login</a>
+</template>

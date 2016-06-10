@@ -1,0 +1,114 @@
+{
+    "_id" : "JXKoe3x4Lc6XWBtkm",
+    "createdAt" : ISODate("2016-03-29T09:35:37.898+0000"),
+    "services" : {
+        "password" : {
+            "bcrypt" : "$2a$10$amfzBptj2Lb8yBoiSBSIKej5yKz3N5.z/pMXpeGpJImCnq2UDluw."
+        },
+        "resume" : {
+            "loginTokens" : [
+                {
+                    "when" : ISODate("2016-03-29T09:35:38.105+0000"),
+                    "hashedToken" : "Fr+w+pGdwQn+BGoVzB+Ino6RjwdduwzocvIKdPb8Dm8="
+                }
+            ]
+        }
+    },
+    "emails" : [
+        {
+            "address" : "male37527@testmail.com",
+            "verified" : false
+        }
+    ],
+    "country" : "GB",
+    "region" : null,
+    "city" : null,
+    "timezone" : null,
+    "profilename" : "male37527",
+    "age" : NumberInt(23),
+    "enabled" : true,
+    "visible" : true,
+    "premium" : false,
+    "notification" : {
+        "message" : true,
+        "interest" : true
+    },
+    "ipAddr" : "192.168.5.96",
+    "userAgent" : "Mozilla/5.0 (iPad; CPU OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12D508 Safari/600.1.4",
+    "uuid" : "320e4557-e3a7-465f-94a8-c2b4bdcdd64a",
+    "gender" : "male",
+    "photos" : {
+        "profile" : null
+    },
+    "agentname" : null,
+    "partner" : false,
+    "favorites" : [
+
+    ],
+    "matchPreference" : {
+        "ageRange" : {
+            "from" : "25",
+            "to" : "35"
+        },
+        "heightRange" : {
+            "from" : "153",
+            "to" : "182"
+        },
+        "weightRange" : {
+            "from" : null,
+            "to" : null
+        },
+        "location" : "GB",
+        "region" : "any",
+        "bodyType" : "any",
+        "ethnicity" : "Black",
+        "nationality" : "Indian",
+        "education" : "Vocational College",
+        "religion" : "Muslim",
+        "maritalStatus" : "Widowed",
+        "occupation" : "any",
+        "haveKids" : "no",
+        "wantKids" : "no",
+        "doSmoke" : "yes",
+        "doDrink" : "yes"
+    },
+    "details" : {
+        "height" : NumberInt(199),
+        "weight" : NumberInt(175),
+        "bodyType" : "chubby",
+        "hairColor" : "black",
+        "eyeColor" : "green",
+        "ethnicity" : "Black",
+        "nationality" : "Indian",
+        "education" : "Vocational College",
+        "languageSpoken" : [
+            "Italian"
+        ],
+        "englishAbility" : "good",
+        "religion" : "Muslim",
+        "howReligious" : "religious",
+        "starSign" : "Libra",
+        "maritalStatus" : "Widowed",
+        "occupation" : "Advertising",
+        "haveKids" : "no",
+        "wantKids" : "maybe",
+        "livingSituation" : "alone",
+        "relocation" : "no",
+        "relationshipType" : [
+            "penpal",
+            "friendship",
+            "romance/dating"
+        ],
+        "doDrink" : "occasionally",
+        "doSmoke" : "occasionally"
+    },
+    "status" : {
+        "online" : false,
+        "lastLogin" : {
+            "date" : ISODate("2016-03-29T09:36:51.091+0000"),
+            "userAgent" : "Mozilla/5.0 (iPad; CPU OS 8_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12D508 Safari/600.1.4"
+        }
+    },
+    "lastOnline" : ISODate("2016-03-30T06:09:45.590+0000"),
+    "variation" : "base"
+}

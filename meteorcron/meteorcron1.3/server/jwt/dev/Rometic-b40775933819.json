@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "crypto-quasar-88905",
+  "private_key_id": "b4077593381983f289ddc262fdff7ae6a8f1aba5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCo7nrXn7RO2jKo\nZf5c4HvM7gTcW3ttKd2CZtXMcRJurUWCcFYAUMJOkzZv5wSeMeKTjNRIP/cnj7QQ\nLtHmdQq8RtWS6iW0423ckux5CGd0lItJzSFqdz/Pa9IYucPDsqWFCqW2+PBx8Sdk\n/icAZqNg3zU1k5QdSTBnXU92264GALVZ9YlnPVUiOY5PAISSNI5Fff1tUaCtb2Yc\nuhBEotpBNczC0K/2L23gxRXMHnh2V+PCOVu/N53DXOmOEFpF8dySiQiqZZbNjVUT\nSdgq6mhRo6ZOVZPLFi5iwh0VJbEqYo0ODVje/GMhgQGtk8mPaltrN7F5fWHihQJz\n3cq5dQlDAgMBAAECggEAHFIWwA1jIhEMixTGRvXPa3S/1d10XMG3BASPdT3DlFBy\nJcMFd/oSCTA+4RW+vXKphIkIkbA/lB9QVaIzyEn46cWKSp38gk3afi8Xe9b/2RiK\nHW5JWtrxFKoDx+dkvWs2uo4lZ/5l+QQv0YuWKEgMvdHNztSV8S7y8XFAQDHmA9VW\neXiRlHwVvY3Edq30Zk+HpdO4sULrWrqYmnd6XEGfpPL5vHKm4SeMNGJ403dPo4kb\nCMR9l3sMVFXb2an9bfzNWExzjgJb+TUf2S+CmUwhHGXUL8nJpdJFOkMs8b5P2iS9\nh1i+COjht0T4R4f9UeMomTrvN4qffNDEbQNZKNzecQKBgQDmcZZJvVmorZL84Azj\nBkmnmFp9X/Ielu9tmZ6oyf0aSMYFNxl7la64Q1osOaNkzOH/5PxjvW3OJKJPVjht\n5JVjwG0VunCMjQpMtcpMq9XaueLIAXfWaPkQ03w4I1xXvjweyFwMItMc8tBmcwtS\nKkMcMKvS9th1o88EvaIPgD/oCQKBgQC7qog7j8EXP8s4EQTBQIUCjvTLW+1kdUlY\n4Wyz7vZ23TsU5IzuJ4wGZgRi5epzGnkFuPKKE7bxNce3VM809g7f1DAJhyGdJZ79\n33VwB6ZDcGaQ88o0OUUw1wFRGy9j/Xu9m4w4WvpPPh85JWqxLsJkYjDlAADdcGeI\nkDBzMosB6wKBgQCPy+tLAlPzVLR3BVwlQiQt53z35SoRen/XNVfy3XAJucWPNY26\nN3H6W1TmaeUSnmKcKohvuKHPU77QoO2/bTbnMwke2OMoYU4/BeVBqKxeu0XPJlNg\nQMrCfCV0ZmRWAEhFsSL3E7gGxWHTvBAhamvMKHbfwtbZuakRvT9mStIV+QKBgCFd\nnIMad/YuPW9mdzX0xrFBwXw2h+qIf9XxnmYPYnqXst1wFS5ykY7BrJ34yspUNpgx\n3c1229ve9/c8eOqtpM9e5nuLLwrFmZMBm9ujQIhU/6dd8OGAHTElyPImpzJb6xg3\nA6MxabeVD/AVGvcNnTpDyvWsHntAdOfu2u5gWh6pAoGBAOLsdn5giz1CQhGZmxCu\nES4c7OeW5a2PrL4iZkr3Rceqtg9uc2F/TMUJO4GQY4Mhjpa7lJ5zofc4MWllATOe\n+a3ZQmZm4Njdwl0AvbKSG8S5Q9g7HyQAaBtId4yAVayhZih+JhBMXmzR1AIct+fk\nRPrttMkRCeDPpIiBkbo6MpgH\n-----END PRIVATE KEY-----\n",
+  "client_email": "crypto-quasar-88905@appspot.gserviceaccount.com",
+  "client_id": "113719292649037641285",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/crypto-quasar-88905%40appspot.gserviceaccount.com"
+}

@@ -1,0 +1,19 @@
+before_script:
+  - uname -r
+  - pwd
+  - meteor node --version
+  - meteor npm --version
+  - export PROJECTFILE="mantraboilerplate.tar.gz"
+  - export FOLDER="/home/snapzio/mantraboilerplate/"
+  - bash version.sh > private/version.json;
+
+Prod:
+  only:
+    - prod
+  script:
+    - meteor npm install;
+    - eslint .
+    - meteor build . --server-only;
+    - find $FOLDER -mindepth 1 -delete;
+    - rsync -av $PROJECTFILE $FOLDER;
+    - cd $FOLDER; tar -xf $PROJECTFILE; cd bundle/programs/server; meteor npm install; chown -R snapzio:www-data .; service nginx reload;

@@ -1,0 +1,54 @@
+.top-space-xlg {
+  margin-top: 50%;
+}
+
+.top-space-lg {
+  margin-top: 40%;
+}
+
+.top-space-md {
+  margin-top: 30%;
+}
+
+.top-space-sm {
+  margin-top: 20%;
+}
+
+.top-space-xsm-5 {
+  margin-top: 15%;
+}
+
+.top-space-xsm {
+  margin-top: 10%;
+}
+
+.login-wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  height: 400px;
+  width: 400px;
+}
+
+.dashboardContentWrapper {
+  margin-top: 50px;
+}
+
+#newpost {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#embedVid {
+  resize: none;
+  height: 100px;
+}
+
+#vidDescription {
+  resize: none;
+  height: 200px;
+}
+
+.createPost {
+  border-radius: 0px!important;
+}

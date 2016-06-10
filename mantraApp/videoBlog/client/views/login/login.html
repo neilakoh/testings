@@ -1,0 +1,29 @@
+<template name="login">
+  <div class="top-space-lg"></div>
+  <div class="login-wrapper">
+    <ul class="nav nav-tabs">
+        <li class="active"><a data-toggle="tab" href="#login"><span class="icon"><i class="fa fa-unlock" aria-hidden="true"></i>&nbsp;<b>Login</b></span></a></li>
+        <li><a data-toggle="tab" href="#register"><span class="icon"><i class="fa fa-user-plus" aria-hidden="true"></i>&nbsp;<b>Register</b></span></a></li>
+    </ul>
+
+    <div class="tab-content">
+
+        <div id="login" class="tab-pane fade in active">
+          <div class="form-group">
+            <label for="username">Username</label>
+            <input type="text" class="form-control" id="username" name="username" placeholder="Enter Username">
+          </div>
+          <div class="form-group">
+            <label for="password">Password</label>
+            <input type="password" class="form-control" id="password" name="password" placeholder="Enter Password">
+          </div>
+          <button type="submit" class="btn btn-info register">LOGIN</button>
+        </div>
+
+        <div id="register" class="tab-pane fade">
+
+        </div>
+
+    </div>
+  </div>
+</template>

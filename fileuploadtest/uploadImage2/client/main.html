@@ -1,0 +1,18 @@
+<head>
+  <title>simple</title>
+</head>
+
+<body>
+  <h1>Welcome to Meteor!</h1>
+
+  {{> hello}}
+
+</body>
+
+<template name="hello">
+    <input id="myFileInput" type="file" name="myFileInput" accept="image/*;capture=camera">
+    <br/>
+    {{#each display}}
+      <img src="{{data}}" />
+    {{/each}}
+</template>

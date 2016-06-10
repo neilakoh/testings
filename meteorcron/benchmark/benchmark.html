@@ -1,0 +1,18 @@
+<head>
+  <title>benchmark</title>
+</head>
+
+<body>
+  <h1>Welcome to Meteor!</h1>
+
+  {{> hello}}
+</body>
+
+<template name="hello">
+  {{#each data}}
+    ID: {{_id}}<br/>
+    Data: {{data}}<br/>
+    <hr/>
+  {{/each}}
+  <button type="button" id="loadmore">Load More</button>
+</template>

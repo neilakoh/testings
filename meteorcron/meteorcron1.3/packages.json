@@ -1,0 +1,5 @@
+{
+  "googleapis": "https://github.com/bradvogel/google-api-nodejs-client/archive/d945dabf416d58177b0c14da64e0d6038f0cc47b.tar.gz",
+  "in-app-purchase": "https://github.com/voltrue2/in-app-purchase/archive/4b608a904fdaf72a4357ced725de130e598833ad.tar.gz",
+  "request": "https://github.com/request/request/archive/c2224588455b2e9a50199584711dce24f24dc2d2.tar.gz"
+}

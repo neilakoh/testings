@@ -1,0 +1,22 @@
+.tab-content > .active {
+  padding: 25px!important;
+}
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
+  border-radius: 0px!important;
+}
+
+.form-control {
+  border-radius: 0px!important;
+}
+
+.tab-content {
+  border-bottom: 1px solid #ddd!important;
+  border-right: 1px solid #ddd!important;
+  border-left: 1px solid #ddd!important;
+}
+
+.register {
+  width: 100%!important;
+  border-radius: 0px!important;
+}

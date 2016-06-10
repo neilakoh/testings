@@ -1,0 +1,21 @@
+<head>
+  <title>simple</title>
+</head>
+
+<template name="layout">
+  <body>
+    <h1>Welcome to Meteor!</h1>
+
+    {{> yield}}
+
+  </body>
+</template>
+
+<template name="main">
+  <ul>
+    <!-- you would want to do this list based on total number of records -->
+    <li class="pagination" data-value="1">1</li>
+    <li class="pagination" data-value="2">2</li>
+    <li class="pagination" data-value="3">3</li>
+ </ul>
+</template>

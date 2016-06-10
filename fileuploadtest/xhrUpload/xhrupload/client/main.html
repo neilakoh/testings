@@ -1,0 +1,20 @@
+<head>
+  <title>simple</title>
+</head>
+
+<template name="layout">
+  <body>
+
+    <h1>Welcome to Meteor!</h1>
+
+    {{> hello}}
+
+  </body>
+</template>
+
+<template name="hello">
+    <input multiple class="file fileinput" type="file" id="myFileInput">
+    <input id="myFileInput" type="file" name="myFileInput" accept="image/*;capture=camera">
+    <button type="button" id="upload">Upload</button>
+    <br/>
+</template>

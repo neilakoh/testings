@@ -1,0 +1,28 @@
+<head>
+  <title>Analytics Tracker</title>
+</head>
+
+<template name="layout">
+  <body>
+  {{> nav}}
+  <hr/>
+  {{> yield}}
+  </body>
+</template>
+
+<template name="nav">
+  <a href="/">Home</a> | <a href="/about">About</a> | <a href="/contact">Contact</a>
+</template>
+
+<template name="main">
+  <h1>MAIN PAGE</h1>
+  <div id="output">value here</div>
+</template>
+
+<template name="about">
+  <h1>ABOUT PAGE</h1>
+</template>
+
+<template name="contact">
+  <h1>CONTACT PAGE</h1>
+</template>
